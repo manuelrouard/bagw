@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+	<body style="margin: 10px;">
+		<wicket:panel>
+			<div id="PersonsTitle" class="title" onclick="toggle('persons')">
+				<table>
+					<tr>
+						<td>Personnes</td>
+						<td><a href="#" wicket:id="create"><div class="icon_add" style="float: left;display: block;" title="Add transaction"></div></a></td>					
+					</tr>
+				</table>
+			</div>
+			<div id="persons" style="display: none;">
+				<form wicket:id="form">
+						<table class="infoTable">
+							<tr wicket:id="item">
+								<td class="infoActions" width="30px">
+									<a href="#" wicket:id="delete" ><div class="icon_delete" style="float: left;display: block;" title="Delete transaction"></div></a>&nbsp;
+								</td>
+								<td class="infoTable"><span wicket:id="id"></span></td>
+								<td class="infoTable"><span wicket:id="nameLast"></span></td>
+								<td class="infoTable"><span wicket:id="nameFirst"></span></td>
+								<td class="infoTable"><span wicket:id="mobile"></span></td>
+								<td class="infoTable"><span wicket:id="email"></span></td>
+								<td class="infoTable"><span wicket:id="account"></span></td>
+								<td class="infoTable"><span wicket:id="balance"></span></td>
+								<td class="infoTable"><span wicket:id="reminder"></span></td>
+								<td class="infoTable"><input wicket:id="cbSend" type="checkbox"></td>
+							</tr>
+						</table>
+						<textarea wicket:id="comment" rows="5" cols="80"></textarea><br/>
+					<input type="submit" wicket:id="sendEmail" value="Send emails!" />
+				</form>
+			</div>
+		</wicket:panel>
+	</body>
+</html>

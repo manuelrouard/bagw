@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+	<body style="margin: 10px;">
+		<wicket:panel>
+			<div id="personsSummaryTitle" class="title" onclick="toggle('personsSummary')">
+				<table>
+					<tr>
+						<td>Personnes - Totaux</td>
+					</tr>
+				</table>
+			</div>
+			<div id="personsSummary" wicket:id="wmc" style="display: none;">
+				<table class="infoTable">
+					<tr wicket:id="items">
+						<table>
+							<tr>
+								<td class="infoTable" width="200px"><span wicket:id="nameLast"></span></td>
+								<td class="infoTable" width="200px"><span wicket:id="nameFirst"></span></td>
+								<td class="infoTable" width="50px"><span wicket:id="balance"></span></td>								
+								<td class="infoTable" width="50px"><span wicket:id="reminder"></span></td>								
+								<td class="infoTable" width="300px"><span wicket:id="email"></span></td>
+								<td class="infoTable" width="50px"><span wicket:id="transDetails"></span></td>
+							</tr>
+							<tr>
+								<td class="infoSubTable" colspan="5"><span wicket:id="personTransactions"></span></td>
+							</tr>
+						</table>
+					</tr>
+				</table>
+			</div>
+		</wicket:panel>
+	</body>
+</html>

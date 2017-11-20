@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+	<body style="margin: 10px;">
+		<wicket:panel>
+			<div id="uploadTitle" class="title" onclick="toggle('upload')">
+				<table>
+					<tr>
+						<td>Import</td>
+					</tr>
+				</table>
+			</div>
+			<div id="upload" style="display: none;">
+				<form wicket:id="csvUploadForm">
+					<input wicket:id="fileInput" type="file" multiple="multiple" style="font-family: 'OpenSans-Regular' Arial; font-size: 14px;"/>
+					<select wicket:id="bill"></select>
+					<input type="submit" value="Upload from XLS" class="submitButton" wicket:id="xlsUploadButton" />
+					<input type="submit" value="Upload from bank" class="submitButton" wicket:id="bankUploadButton" /><br/>
+					<span wicket:id=xlsTransactions></span>
+					<input type="submit" value="Save" class="submitButton" wicket:id="uploadSaveButton" /><br/>
+				</form>
+			</div>
+		</wicket:panel>
+	</body>
+</html>

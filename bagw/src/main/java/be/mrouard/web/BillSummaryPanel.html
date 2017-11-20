@@ -1,0 +1,34 @@
+Treasury<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+	<body style="margin: 10px;">
+		<wicket:panel>
+			<div id="billsSummaryTitle" class="title" onclick="toggle('billsAjaxSummary')">
+				<table>
+					<tr>
+						<td>Notes - Totaux</td>
+					</tr>
+				</table>
+			</div>
+			<div id="billsAjaxSummary" wicket:id="wmc" style="display: none;">
+				<table class="infoTable">
+					<tr wicket:id="items">
+						<table>
+							<tr>
+								<td class="infoTable" width="200px"><span wicket:id="name"></span></td>
+								<td class="infoTable" width="200px"><span wicket:id="dueDate"></span></td>
+								<td class="infoTable" width="200px"><span wicket:id="totalDebit"></span></td>
+								<td class="infoTable" width="200px"><span wicket:id="totalCreditTreasury"></span></td>
+								<td class="infoTable" width="200px"><span wicket:id="totalCredit"></span></td>
+								<td class="infoTable" width="200px"><span wicket:id="totalDebitTreasury"></span></td>
+								<td class="infoTable" width="50px"><span wicket:id="transDetails"></span></td>
+							</tr>
+							<tr>
+								<td class="infoSubTable" colspan="5"><span wicket:id="billTransactions"></span></td>
+							</tr>
+						</table>
+					</tr>
+				</table>
+			</div>
+		</wicket:panel>
+	</body>
+</html>

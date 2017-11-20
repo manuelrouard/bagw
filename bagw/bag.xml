@@ -1,0 +1,1790 @@
+<bag>
+  <persons>
+    <person>
+      <id>555723</id>
+      <nameLast>Alexandre</nameLast>
+      <nameFirst>Nora</nameFirst>
+      <mobile></mobile>
+      <email>nora_alexandre@hotmail.com</email>
+      <account>063-4601975-39</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>557169</id>
+      <nameLast>Andre</nameLast>
+      <nameFirst>Sarah</nameFirst>
+      <mobile>-32 477 566 143</mobile>
+      <email>sarah.andre.namur@gmail.com</email>
+      <account>BE16 3630 2358 4174</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555722</id>
+      <nameLast>Antoine</nameLast>
+      <nameFirst>Alexia</nameFirst>
+      <mobile>+32 486 229 822</mobile>
+      <email>alexiaantoine@msn.com</email>
+      <account>930-0076756-93</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555200</id>
+      <nameLast>Autre</nameLast>
+      <nameFirst>Autre</nameFirst>
+      <mobile></mobile>
+      <email>manuel.rouard72@gmail.com</email>
+      <account></account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555250</id>
+      <nameLast>Balthazart</nameLast>
+      <nameFirst>Yves</nameFirst>
+      <mobile>+32499290049</mobile>
+      <email>yves_balthazart@yahoo.fr</email>
+      <account>792-5677990-50</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>10950</id>
+      <nameLast>Barthelemy</nameLast>
+      <nameFirst>Francois</nameFirst>
+      <mobile>+32497855606</mobile>
+      <email>francoisbar01@gmail.com</email>
+      <account>001-2899451-03;750-6377817-31</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>557226</id>
+      <nameLast>Bauvir</nameLast>
+      <nameFirst>Fabienne</nameFirst>
+      <email>manuel.rouard72@gmail.com</email>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>6750</id>
+      <nameLast>Beaujean</nameLast>
+      <nameFirst>Frederic</nameFirst>
+      <mobile>+32496992308</mobile>
+      <email>beaujean.f@gmail.com</email>
+      <account>732-0001455-51;BE58 0635 7334 2379</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556212</id>
+      <nameLast>Beauraind</nameLast>
+      <nameFirst>Anne</nameFirst>
+      <mobile>+32498387320</mobile>
+      <email>beauraindanne@hotmail.com</email>
+      <account>BE32001302361002</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>4800</id>
+      <nameLast>Bigneron</nameLast>
+      <nameFirst>Cedric</nameFirst>
+      <mobile>+32472956040</mobile>
+      <email>bibi3315@hotmail.com</email>
+      <account>310-1118000-64</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>557225</id>
+      <nameLast>Bodart</nameLast>
+      <nameFirst>Cedric</nameFirst>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555718</id>
+      <nameLast>Bodart</nameLast>
+      <nameFirst>Damien</nameFirst>
+      <mobile>+320473307548</mobile>
+      <email>da.bodart@hotmail.com</email>
+      <account>BE37360106935028</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>2500</id>
+      <nameLast>Bodson</nameLast>
+      <nameFirst>Patrick</nameFirst>
+      <mobile>+32495943323</mobile>
+      <email>patachou99@hotmail.com</email>
+      <account>000-3089795-54</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555708</id>
+      <nameLast>Bouillet</nameLast>
+      <nameFirst>Thierry</nameFirst>
+      <mobile>+32497435974</mobile>
+      <email>thierry@bouillet.be</email>
+      <account>063-4952967-85</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556131</id>
+      <nameLast>Buchet</nameLast>
+      <nameFirst>Louis</nameFirst>
+      <email>lbucht@hotmail.com</email>
+      <account>BE12 0634 1259 5292</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557461</id>
+      <nameLast>Butaije</nameLast>
+      <nameFirst>Marlène</nameFirst>
+      <email>mbutaije@hotmail.be</email>
+      <account>BE97001388928549</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555707</id>
+      <nameLast>Canali</nameLast>
+      <nameFirst>Claudio</nameFirst>
+      <mobile>+32475485887</mobile>
+      <email>claudio.canali@skynet.be</email>
+      <account>063-0461817-35</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>4550</id>
+      <nameLast>Cortes Thonon</nameLast>
+      <nameFirst>Enrique</nameFirst>
+      <mobile>+32478906814</mobile>
+      <email>couques.thonon@skynet.be</email>
+      <account>363-0108877-83;360-1016444-84</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556394</id>
+      <nameLast>Coulon</nameLast>
+      <nameFirst>Christine</nameFirst>
+      <mobile>+495870131</mobile>
+      <email>boulette1205@hotmail.com</email>
+      <account>BE21 6528 2592 7703;BE78 3770 0639 7286</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>9000</id>
+      <nameLast>Courtois</nameLast>
+      <nameFirst>Christophe</nameFirst>
+      <mobile>+32496309607</mobile>
+      <email>tof.courtois@gmail.com</email>
+      <account>795-5759378-89</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>557387</id>
+      <nameLast>Daffe</nameLast>
+      <nameFirst>Margaux</nameFirst>
+      <email>familledaffe@tvcablenet.be</email>
+      <account>BE62063924199261</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>556130</id>
+      <nameLast>Davis</nameLast>
+      <nameFirst>Niki</nameFirst>
+      <email>nikidavis2000@yahoo.com</email>
+      <account>BE30143074428811</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556320</id>
+      <nameLast>De munck</nameLast>
+      <nameFirst>Genevieve</nameFirst>
+      <email>gdemunck@hotmail.com</email>
+      <account>BE27 2600 0458 8573</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556497</id>
+      <nameLast>Debroux</nameLast>
+      <nameFirst></nameFirst>
+      <email>manuel.rouard72@gmail.com</email>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556958</id>
+      <nameLast>Dekoninck</nameLast>
+      <nameFirst>Julien</nameFirst>
+      <mobile>+32478640210</mobile>
+      <email>dekoninckju@hotmail.be</email>
+      <account>BE 64 0635 5596 6952;BE38 1430 9577 4972</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555779</id>
+      <nameLast>Delfosse</nameLast>
+      <nameFirst>Christophe</nameFirst>
+      <mobile>+32478917489</mobile>
+      <email>Toiture-christophe-d@hotmail.com</email>
+      <account>001287367125</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555706</id>
+      <nameLast>Delfosse</nameLast>
+      <nameFirst>Nicolas</nameFirst>
+      <mobile>+32474792515</mobile>
+      <email>adn34cs@hotmail.com</email>
+      <account>001397778181;BE08034103591113</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555550</id>
+      <nameLast>Della Faille</nameLast>
+      <nameFirst>Margaux</nameFirst>
+      <mobile>+32470056558</mobile>
+      <email>wencydfh@voo.be</email>
+      <account>363-0274446-73</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556321</id>
+      <nameLast>Dermout</nameLast>
+      <nameFirst>Thibaut</nameFirst>
+      <email>manuel.rouard72@gmail.com</email>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555704</id>
+      <nameLast>Dewandre</nameLast>
+      <nameFirst>Adrien</nameFirst>
+      <mobile></mobile>
+      <email>adrien.dewandre@gmail.com</email>
+      <account>BE82611031777068</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555715</id>
+      <nameLast>Donnay</nameLast>
+      <nameFirst>Christophe</nameFirst>
+      <mobile></mobile>
+      <email>manuel.rouard72@gmail.com</email>
+      <account></account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556496</id>
+      <nameLast>Duparque</nameLast>
+      <nameFirst>Veronique</nameFirst>
+      <email>veroduparque@hotmail.com</email>
+      <account>BE89 0017 0628 7085;BE54 0017 3986 9697</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555714</id>
+      <nameLast>Durant</nameLast>
+      <nameFirst>Thomas</nameFirst>
+      <mobile></mobile>
+      <email>durant.thomas@gmail.com</email>
+      <account>250-0523420-93</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557348</id>
+      <nameLast>Eloy</nameLast>
+      <nameFirst>Gaelle</nameFirst>
+      <mobile>+32470193510</mobile>
+      <email>gaelle_eloy@hotmail.com</email>
+      <account>001-4935036-43</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>8900</id>
+      <nameLast>Even</nameLast>
+      <nameFirst>Marie-Pierre</nameFirst>
+      <mobile>+32478218294</mobile>
+      <email>mp_even@yahoo.fr</email>
+      <account>775-5939882-11</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>11050</id>
+      <nameLast>Evrard</nameLast>
+      <nameFirst>Francois</nameFirst>
+      <mobile>+32486590764</mobile>
+      <email>francois.evrard@gmail.com</email>
+      <account>001-2744435-90;360-0353949-02;652-8181281-92</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>4</id>
+      <nameLast>Forain</nameLast>
+      <nameFirst>Patrice</nameFirst>
+      <mobile>+32498690626</mobile>
+      <email>patrice.forain@skynet.be</email>
+      <account>250-0207236-32;063-4648422-23</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>5</id>
+      <nameLast>Frennet</nameLast>
+      <nameFirst>Maxime</nameFirst>
+      <mobile>+33680530360</mobile>
+      <email>mfrennet@gmail.com</email>
+      <account>063-4059973-73</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>8950</id>
+      <nameLast>Furnemont</nameLast>
+      <nameFirst>Sebastien</nameFirst>
+      <mobile>+32479469283</mobile>
+      <email>sfurnemont@yahoo.fr</email>
+      <account>143-0632158-13</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>6900</id>
+      <nameLast>Gilain</nameLast>
+      <nameFirst>Philippe</nameFirst>
+      <mobile>+32495241810</mobile>
+      <email>philippe.gilain@yucom.be</email>
+      <account>BE88 0630 8585 5341</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555713</id>
+      <nameLast>Goffinet</nameLast>
+      <nameFirst>Isabelle</nameFirst>
+      <mobile></mobile>
+      <email>isa.goffinet@gmail.com</email>
+      <account></account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557072</id>
+      <nameLast>Goncette</nameLast>
+      <nameFirst>Alban</nameFirst>
+      <email>goncette_a@hotmail.com</email>
+      <account>BE73 7326 4306 2460</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555650</id>
+      <nameLast>Gregoire</nameLast>
+      <nameFirst>Jean-Michel</nameFirst>
+      <mobile>+32485654124</mobile>
+      <email>jmgregoire24@live.fr</email>
+      <account>377-0188819-94</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555400</id>
+      <nameLast>Grosjean</nameLast>
+      <nameFirst>Christophe</nameFirst>
+      <mobile></mobile>
+      <email>ch.grosjean@gmail.com</email>
+      <account>132-5098476-03</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557098</id>
+      <nameLast>Gualducci</nameLast>
+      <nameFirst>Romual</nameFirst>
+      <email>r.gualducci@aadg.be</email>
+      <account>BE17 0682 4616 6021</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555350</id>
+      <nameLast>Guinot</nameLast>
+      <nameFirst>Yann</nameFirst>
+      <mobile>+32497937330</mobile>
+      <email>yguinot@skynet.be</email>
+      <account>360-1064877-17</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555050</id>
+      <nameLast>Hance</nameLast>
+      <nameFirst>Thibaut</nameFirst>
+      <mobile>+32494194431</mobile>
+      <email>hance_thibaut@hotmail.com</email>
+      <account>143-0728625-62;063-5054006-50</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555501</id>
+      <nameLast>Hance J</nameLast>
+      <nameFirst>Julien</nameFirst>
+      <mobile>+32498682760</mobile>
+      <email>julienhance@hotmail.com</email>
+      <account>777-5916495-56</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>4600</id>
+      <nameLast>Hanse</nameLast>
+      <nameFirst>Marie</nameFirst>
+      <mobile>+32484166855</mobile>
+      <email>marie.hanse@beldico.be</email>
+      <account>001-3069851-71</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555700</id>
+      <nameLast>Hanson</nameLast>
+      <nameFirst>Philippe</nameFirst>
+      <mobile>+32477940036</mobile>
+      <email>philippehanson@hotmail.com</email>
+      <account>250-0206064-24</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555500</id>
+      <nameLast>Henry</nameLast>
+      <nameFirst>Sandrine</nameFirst>
+      <mobile> +32476703898</mobile>
+      <email>zia2mordikan@hotmail.com</email>
+      <account>001-2927750-75</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>556956</id>
+      <nameLast>Hermans</nameLast>
+      <nameFirst>Christopher</nameFirst>
+      <email>hermans.christopher@hotmail.com</email>
+      <account>BE66250013372143</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555702</id>
+      <nameLast>Hermans</nameLast>
+      <nameFirst>Sebastien</nameFirst>
+      <mobile>+32473756117</mobile>
+      <email>sebastien.hermans@gmail.com</email>
+      <account>250-0133697-19</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555705</id>
+      <nameLast>Heylens</nameLast>
+      <nameFirst>Quentin</nameFirst>
+      <mobile></mobile>
+      <email>quentinheylens@me.com</email>
+      <account>BE75611561599051</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>6</id>
+      <nameLast>Houtekiet</nameLast>
+      <nameFirst>Gill</nameFirst>
+      <mobile>+32498970172</mobile>
+      <email>ghoutekiet@wintec.be</email>
+      <account>636-0396242-37</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557527</id>
+      <nameLast>Jardin</nameLast>
+      <nameFirst>Dimitri</nameFirst>
+      <mobile>+32494746703</mobile>
+      <email>dimitri.jardin.97@gmail.com</email>
+      <account>BE 08 7320 3715 6913</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>557287</id>
+      <nameLast>Kharroubi</nameLast>
+      <nameFirst>Nazim</nameFirst>
+      <mobile>+32494926236</mobile>
+      <email>nazim.kharroubi@gmail.com</email>
+      <account>BE85 0015 9856 0606</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>11000</id>
+      <nameLast>Laloux</nameLast>
+      <nameFirst>Christophe</nameFirst>
+      <mobile>+32472273499</mobile>
+      <email>lalouxc@skynet.be</email>
+      <account>&lt;a fournir&gt;</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>2550</id>
+      <nameLast>Lambert</nameLast>
+      <nameFirst>Arnaud</nameFirst>
+      <mobile>+32472830117</mobile>
+      <email>arnaud.lambert2005@skynet.be</email>
+      <account>BE93 2500 0380 0667</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555712</id>
+      <nameLast>Lambert</nameLast>
+      <nameFirst>Benoit</nameFirst>
+      <mobile>+32475380099</mobile>
+      <email>benmail008@gmail.com</email>
+      <account>001-1936606-77</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555709</id>
+      <nameLast>Lambert</nameLast>
+      <nameFirst>Samuel</nameFirst>
+      <mobile></mobile>
+      <email>lambert-s@hotmail.com</email>
+      <account>063-9416772-47</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>557143</id>
+      <nameLast>Lambion</nameLast>
+      <nameFirst>Maxime</nameFirst>
+      <email>MaximeLambion@icloud.com</email>
+      <account>BE38063402010572</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557316</id>
+      <nameLast>Laurent</nameLast>
+      <nameFirst>Caroline</nameFirst>
+      <email>laurent.caroline12@gmail.com</email>
+      <account>BE22 0015 6966 8447</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>4850</id>
+      <nameLast>Laurent</nameLast>
+      <nameFirst>Juliette</nameFirst>
+      <mobile>+32476226670</mobile>
+      <email>marina.golinveau@base.be</email>
+      <account>979-3847436-33</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>7900</id>
+      <nameLast>Leman</nameLast>
+      <nameFirst>Sandy</nameFirst>
+      <mobile>+32473576558</mobile>
+      <email>sandyleman@hotmail.fr</email>
+      <account>001-4299597-51;BE44 6528 3823 1545;BE21 6528 4632 6803</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>2</id>
+      <nameLast>Lichtherte</nameLast>
+      <nameFirst>Eric</nameFirst>
+      <mobile>+32478951414</mobile>
+      <email>eric.lichtherte@skynet.be</email>
+      <account>920-1024017-68</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555300</id>
+      <nameLast>Liebersens</nameLast>
+      <nameFirst>Christophe</nameFirst>
+      <mobile> +32470057932</mobile>
+      <email>enki138@hotmail.com</email>
+      <account>063-9331490-28</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556895</id>
+      <nameLast>Liu</nameLast>
+      <nameFirst>Jing</nameFirst>
+      <mobile>+32477225656</mobile>
+      <email>Jing.Liu@senior-assist.org</email>
+      <account>BE75 0017 5672 3651</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556129</id>
+      <nameLast>Loriers</nameLast>
+      <nameFirst>Stephanie</nameFirst>
+      <mobile>+32476530628</mobile>
+      <email>stephloriers@gmail.com</email>
+      <account>BE33063174048246</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555710</id>
+      <nameLast>Marechal</nameLast>
+      <nameFirst>Julien</nameFirst>
+      <mobile>+32472682922</mobile>
+      <email>marechal.jul@gmail.com</email>
+      <account>84143062007959</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>1500</id>
+      <nameLast>Marion</nameLast>
+      <nameFirst>Benoit</nameFirst>
+      <mobile>+32474392948</mobile>
+      <email>benoit.marion@skynet.be</email>
+      <account>001-2715228-80</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555724</id>
+      <nameLast>Marmann</nameLast>
+      <nameFirst>Nicolas</nameFirst>
+      <mobile></mobile>
+      <email>nicolas.marmann@gmail.com</email>
+      <account>31001446634455</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>7</id>
+      <nameLast>Marthus</nameLast>
+      <nameFirst>Martine</nameFirst>
+      <mobile>+32474675375</mobile>
+      <email>marthus1971@hotmail.com</email>
+      <account>063-9931158-42;001-3123968-62</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>6800</id>
+      <nameLast>Masschelein</nameLast>
+      <nameFirst>Bernard</nameFirst>
+      <mobile>+32496707973</mobile>
+      <email>bigben130875@hotmail.com</email>
+      <account>063-9895811-03</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556957</id>
+      <nameLast>Oger</nameLast>
+      <nameFirst>Benjamin</nameFirst>
+      <mobile>+32476733786</mobile>
+      <email>patxi.oger7@gmail.com</email>
+      <account>BE80 0014 9402 1177;BE42 0017 6536 6654</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555711</id>
+      <nameLast>Parmentier</nameLast>
+      <nameFirst>Laurent</nameFirst>
+      <mobile>+32477978220</mobile>
+      <email>parmentier.l@hotmail.com</email>
+      <account>250-0363323-46;063-8937945-12;BE02 0014 3256 7940;BE76 1262 0586 5695;BE67 1262 0390 5487</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555717</id>
+      <nameLast>Pellus</nameLast>
+      <nameFirst>Celine</nameFirst>
+      <mobile></mobile>
+      <email>celinepupuce7@hotmail.com</email>
+      <account>BE24611506298038</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555701</id>
+      <nameLast>Pepere</nameLast>
+      <nameFirst>Michel</nameFirst>
+      <mobile>+32464696950</mobile>
+      <email></email>
+      <account></account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556569</id>
+      <nameLast>Pierre</nameLast>
+      <nameFirst>Sabine</nameFirst>
+      <email>sabine-pierre@skynet.be</email>
+      <account>BE62 3670 8644 7261</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>4750</id>
+      <nameLast>Pire</nameLast>
+      <nameFirst>Melissa</nameFirst>
+      <mobile>+32498845923</mobile>
+      <email>melissapire@hotmail.com</email>
+      <account>001-3178014-79</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>4500</id>
+      <nameLast>Prumont</nameLast>
+      <nameFirst>Didier</nameFirst>
+      <mobile>+32496413682</mobile>
+      <email>didier.prumont@skynet.be</email>
+      <account>250-0033988-26</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557582</id>
+      <nameLast>Quadflieg</nameLast>
+      <nameFirst>Juliette</nameFirst>
+      <email>quadflieg.juliette@gmail.com</email>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>3</id>
+      <nameLast>Quairiat</nameLast>
+      <nameFirst>Francis</nameFirst>
+      <mobile>+32479247923</mobile>
+      <email>fqr1967@hotmail.com</email>
+      <account>063-1586407-07;BE88 1430 9156 2041</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>556443</id>
+      <nameLast>Richir</nameLast>
+      <nameFirst>Philippe</nameFirst>
+      <mobile>+32488099039</mobile>
+      <email>filrichir@gmail.com</email>
+      <account>BE44 0012 4203 1345</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555150</id>
+      <nameLast>Rolin</nameLast>
+      <nameFirst>Daniel</nameFirst>
+      <mobile>+32495218345</mobile>
+      <email>danbbox@gmail.com</email>
+      <account>BE64 7506 0861 5952</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555780</id>
+      <nameLast>Rosier</nameLast>
+      <nameFirst>Kevin</nameFirst>
+      <email>kevin.rosier@hotmail.fr</email>
+      <account>001346655040;BE02 0013 4665 5040</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555100</id>
+      <nameLast>Rostenne</nameLast>
+      <nameFirst>Olivier</nameFirst>
+      <mobile>+32473204798</mobile>
+      <email>olivierrostenne@hotmail.com</email>
+      <account>001-1014461-14</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>1</id>
+      <nameLast>Rouard</nameLast>
+      <nameFirst>Manuel</nameFirst>
+      <mobile>+32498306342</mobile>
+      <email>manuel.rouard72@gmail.com</email>
+      <account></account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>4900</id>
+      <nameLast>Saffer</nameLast>
+      <nameFirst>Eric</nameFirst>
+      <mobile>+32496129231</mobile>
+      <email>ptitzen@gmail.com</email>
+      <account>063-9830508-78;377034868305</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>556461</id>
+      <nameLast>Sana</nameLast>
+      <nameFirst>Jerome</nameFirst>
+      <mobile>+32498604539</mobile>
+      <email>jerome.sana@gmail.com</email>
+      <account>BE65 0634 0526 2496</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>5750</id>
+      <nameLast>Sangoi</nameLast>
+      <nameFirst>Quentin et Marie</nameFirst>
+      <mobile>+32479594221</mobile>
+      <email>pierrolosangoi@hotmail.com</email>
+      <account>000-1314759-21</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557583</id>
+      <nameLast>Schobyn</nameLast>
+      <nameFirst>Pierre</nameFirst>
+      <email>schobyn.pierre@scarlet.be</email>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>9900</id>
+      <nameLast>Scraeyen</nameLast>
+      <nameFirst>Pierre</nameFirst>
+      <mobile>+32496806454</mobile>
+      <email>pierre.scraeyen@skynet.be</email>
+      <account>001-1439664-66</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>9</id>
+      <nameLast>Sevrin</nameLast>
+      <nameFirst>John</nameFirst>
+      <mobile>+32498103372</mobile>
+      <email>john.sevrin@minfin.fed.be</email>
+      <account>BE66 0639 8979 8543</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555914</id>
+      <nameLast>Soubrier</nameLast>
+      <nameFirst>Dimitri</nameFirst>
+      <mobile>+32494195051</mobile>
+      <email>dimitrisoubrier@hotmail.com</email>
+      <account>001160679465</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556362</id>
+      <nameLast>Spreuwers</nameLast>
+      <nameFirst>Maxence</nameFirst>
+      <email>maxencespreuwers@yahoo.com</email>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>3500</id>
+      <nameLast>Stepniak</nameLast>
+      <nameFirst>Murphy</nameFirst>
+      <mobile>+32497417227</mobile>
+      <email>murphy_stepniak@hotmail.com</email>
+      <account>063-8992099-40</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556013</id>
+      <nameLast>Taminiaux</nameLast>
+      <nameFirst>Frederic</nameFirst>
+      <mobile>+32478904890</mobile>
+      <email>fredtaminiaux@gmail.com</email>
+      <account>BE22063500395147</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555716</id>
+      <nameLast>Tellier</nameLast>
+      <nameFirst>Yves</nameFirst>
+      <mobile>+32477779501</mobile>
+      <email>yves.tellier@hotmail.com</email>
+      <account>953036022735</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>556709</id>
+      <nameLast>Thibaux</nameLast>
+      <nameFirst>Ludovic</nameFirst>
+      <email>ludovic.thibaux@gmail.com</email>
+      <account>BE78 0634 4145 2186</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555703</id>
+      <nameLast>Tresorerie</nameLast>
+      <mobile></mobile>
+      <email></email>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>8</id>
+      <nameLast>Urbain</nameLast>
+      <nameFirst>Olivier</nameFirst>
+      <mobile>+32496585046</mobile>
+      <email>olivier.urbain1@gmail.com</email>
+      <account>063-9082301-32</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>557286</id>
+      <nameLast>Van hooff</nameLast>
+      <nameFirst>David</nameFirst>
+      <mobile>+32493772217</mobile>
+      <email>vanhooffdavid@gmail.com</email>
+      <account>BE24001276795438</account>
+      <reminder>0</reminder>
+      <active>true</active>
+    </person>
+    <person>
+      <id>555915</id>
+      <nameLast>Vecchiato</nameLast>
+      <nameFirst>Florentin</nameFirst>
+      <mobile>+32485529155</mobile>
+      <email>florentin.vecchiato@gmail.com</email>
+      <account>611534721058</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555551</id>
+      <nameLast>Vicini</nameLast>
+      <nameFirst>Sergio</nameFirst>
+      <mobile></mobile>
+      <email>SERGIO.VICINI@eu.agc-flatglass.com</email>
+      <account>001-1538924-95;651152873420;BE62 6511 5219 8561</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+    <person>
+      <id>555778</id>
+      <nameLast>Vigneron</nameLast>
+      <nameFirst>John</nameFirst>
+      <mobile>+32495880700</mobile>
+      <email>vigneronj@lamcol.be</email>
+      <account>BE02 0635 2077 4140;BE14 0012 9670 4383</account>
+      <reminder>0</reminder>
+      <active>false</active>
+    </person>
+  </persons>
+  <bills>
+    <bill>
+      <id>557191</id>
+      <name>20171031_01</name>
+      <dueDate>29/11/2016</dueDate>
+    </bill>
+    <bill>
+      <id>557182</id>
+      <name>Remboursement cotisation</name>
+      <dueDate>29/10/2016</dueDate>
+    </bill>
+    <bill>
+      <id>557170</id>
+      <name>Solde saison précédente</name>
+      <dueDate>29/10/2016</dueDate>
+    </bill>
+  </bills>
+  <transactions>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557620</id>
+      <amount>202.3</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[101]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557619</id>
+      <amount>585.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[101]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557610</id>
+      <amount>55.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[88]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Rouard Manuel</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557611</id>
+      <amount>2.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[89]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Saffer Eric</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557612</id>
+      <amount>45.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[90]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Sana Jerome</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557613</id>
+      <amount>9.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[92]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Schobyn Pierre</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557614</id>
+      <amount>18.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[94]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Sevrin John</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557616</id>
+      <amount>275.8</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[101]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Boissons</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557617</id>
+      <amount>475.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[101]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Volants</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557618</id>
+      <amount>10.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[101]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Grips</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557615</id>
+      <amount>14.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[103]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Van hooff David</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557605</id>
+      <amount>12.9</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[76]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Parmentier Laurent</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557606</id>
+      <amount>1.5</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[82]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Quadflieg Juliette</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557607</id>
+      <amount>91.3</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[84]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Richir Philippe</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557608</id>
+      <amount>123.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[85]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Rolin Daniel</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557609</id>
+      <amount>24.8</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[86]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Rosier Kevin</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557584</id>
+      <amount>6.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Alexandre Nora</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557585</id>
+      <amount>1.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[3]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Antoine Alexia</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557586</id>
+      <amount>7.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[6]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Barthelemy Francois</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557587</id>
+      <amount>45.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[10]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Bigneron Cedric</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557588</id>
+      <amount>27.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[20]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Courtois Christophe</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557589</id>
+      <amount>23.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[21]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Daffe Margaux</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557590</id>
+      <amount>32.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[27]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Delfosse Nicolas</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557591</id>
+      <amount>6.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[30]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Dewandre Adrien</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557592</id>
+      <amount>0.8</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[32]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Duparque Veronique</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557593</id>
+      <amount>17.4</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[34]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Eloy Gaelle</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557594</id>
+      <amount>16.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[37]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Forain Patrice</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557595</id>
+      <amount>1.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[39]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Furnemont Sebastien</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557596</id>
+      <amount>2.4</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[40]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Gilain Philippe</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557597</id>
+      <amount>23.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[45]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Gualducci Romuald</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557598</id>
+      <amount>14.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[49]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Hanse Marie</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557599</id>
+      <amount>6.8</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[51]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Henry Sandrine</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557600</id>
+      <amount>25.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[53]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Hermans Sebastien</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557601</id>
+      <amount>41.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[57]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Kharroubi Nazim</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557602</id>
+      <amount>33.5</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[60]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Lambert Benoit</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557603</id>
+      <amount>21.8</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[63]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Laurent Caroline</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557604</id>
+      <amount>11.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[75]"/>
+      <bill reference="../../../bills/bill"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Oger Benjamin</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557549</id>
+      <amount>90.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[39]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557548</id>
+      <amount>90.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[88]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557547</id>
+      <amount>90.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[10]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557546</id>
+      <amount>90.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[37]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557545</id>
+      <amount>90.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[30]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557544</id>
+      <amount>45.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[51]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557543</id>
+      <amount>90.0</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[49]"/>
+      <bill reference="../../../bills/bill[2]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557542</id>
+      <amount>12.0</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[65]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557541</id>
+      <amount>2.6</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[51]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557540</id>
+      <amount>1.2</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[39]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557539</id>
+      <amount>2.2</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[94]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557538</id>
+      <amount>10.7</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[88]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557537</id>
+      <amount>10.9</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[49]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557536</id>
+      <amount>71.6</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[37]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557535</id>
+      <amount>8.4</amount>
+      <type>D</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[32]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+      <reference>Solde compte Cédric année passée</reference>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557534</id>
+      <amount>81.2</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[32]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+    <trans>
+      <id defined-in="be.mrouard.model.entity.Entity">0</id>
+      <id>557533</id>
+      <amount>25.7</amount>
+      <type>C</type>
+      <date>30/10/2017</date>
+      <person reference="../../../persons/person[30]"/>
+      <bill reference="../../../bills/bill[3]"/>
+      <bAmount>0.0</bAmount>
+      <vAmount>0.0</vAmount>
+      <gAmount>0.0</gAmount>
+      <cAmount>0.0</cAmount>
+    </trans>
+  </transactions>
+</bag>

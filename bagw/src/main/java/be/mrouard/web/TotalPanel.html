@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html xmlns:wicket="http://wicket.apache.org">
+    <body style="margin: 10px;">
+        <wicket:panel>
+            <div id="uploadTitle" class="title" onclick="toggle('total')">
+                <table>
+                    <tr>
+                        <td>Totaux</td>
+                    </tr>
+                </table>
+            </div>
+            <div id="total" style="display: none;">
+                <br/>
+                <br/>Total débité aux joueurs et total payés par les joueurs:
+                <br/>- total débité aux joueurs: <span wicket:id="totalDebit"></span>
+                <br/>- total payé par les joueurs: <span wicket:id="totalCredit"></span> 
+                <br/>=>Différence (=Montants payés en trop par les joueurs - reste à payer par les joueurs): <span wicket:id="totalCredit+totalDebit"></span>
+                <br/><br/>Trésorerie - Total des notes et total payé au club:
+                <br/>- total payé au club: <span wicket:id="totalDebitTreasury"></span> 
+                <br/>- total des notes: <span wicket:id="totalCreditTreasury"></span> 
+                <br/>=>Différence (=reste à payer au club+impayés par les joueurs): <span wicket:id="totalCreditTreasury+totalDebitTreasury"></span>
+                <br/><br/>Total des notes et total débités aux joueurs:
+                <br/>- total débité aux joueurs: <span wicket:id="totalDebit2"></span> 
+                <br/>- total des notes: <span wicket:id="totalCreditTreasury2"></span>
+                <br/>=>Différence (montant des pénalités): <span wicket:id="totalCreditTreasury+totalDebit"></span>
+                <br/><br/>Total payé par les joueurs et total payé au club
+                <br/>- total payé au club: <span wicket:id="totalDebitTreasury2"></span>
+                <br/>- total payé par les joueurs: <span wicket:id="totalCredit2"></span>
+                <br/>=>Différence (=reste à payer au club sans tenir compte des impayés): <span wicket:id="totalCredit+totalDebitTreasury"></span>
+                <br/>
+                <br/>Reste à payer: <span wicket:id="totalCredit+totalDebitTreasury2"></span>
+                <br/>Détails: <span wicket:id="accounting"></span>
+                <br/><br/><br/>
+            </div>
+        </wicket:panel>
+    </body>
+</html>
